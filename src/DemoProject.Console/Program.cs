@@ -8,6 +8,8 @@ public class Program
 {
   public static void Main(string[] args)
   {
+
+    //Test
     Console.Write("Please enter the date in the following pattern: yyyy-MM-dd:");
     var Input = Console.ReadLine();
 
